@@ -96,4 +96,4 @@ if __name__ == "__main__":
 # 1. This service uses HTTP transport instead of STDIO
 # 2. It can be accessed through HTTP endpoints
 # 3. Suitable for production deployment
-# 4. Can be containerized and deployed to cloud platforms
+# 4. Can be containerized and deployed to Cloud platforms
